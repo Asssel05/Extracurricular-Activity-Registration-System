@@ -1,0 +1,9 @@
+# Xcode
+.DS_Store
+/build/
+*.pbxuser
+*.mode1v3
+*.perspectivev3
+xcuserdata/
+DerivedData/
+.idea
